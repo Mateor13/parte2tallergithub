@@ -3,14 +3,17 @@ body {
     margin: 0;
     padding: 0;
 }
+
 .container {
     width: 80%;
     margin: 0 auto;
     text-align: center;
 }
+
 h1 {
     color: #333;
 }
+
 p {
     color: #666;
     line-height: 1.6;
